@@ -369,3 +369,8 @@ Example:
 ## Other non-docker related stuff
 
 - /etc/\*release\* contains information about the os distribution
+
+## References
+
+- Techworld with Nana Youtube - https://www.youtube.com/watch?v=3c-iBn73dDE&list=PLhU5ASrwuTJfbjxP2PpUhwFIzAzTRhzqD&index=5&t=2512s
+- KodeKloud Free Course - https://kodekloud.com/courses/docker-for-the-absolute-beginner/

@@ -460,3 +460,7 @@ How routing works:
 - LoadBalancer Service is extension of NodePort Service
 - NodePort Service is extension of ClusterIP service
 - Headless Service is just ClusterIP without IP
+
+## References
+
+- Techworld with Nana Youtube - https://www.youtube.com/watch?v=X48VuDVv0do
