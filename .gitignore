@@ -1,2 +1,5 @@
 /Docker_K8s/docker-installation-tutorial
 /Kafka/node_modules
+*.PNG
+Go/**/*.exe
+Go/**/secret/
