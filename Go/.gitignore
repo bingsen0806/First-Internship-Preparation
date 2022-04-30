@@ -1,0 +1,4 @@
+*.PNG
+*.jpg
+./*/secret/
+*.exe
